@@ -24,6 +24,6 @@
 
 <p>
   <a href="https://github.com/bethel14/Women-s-wide-project/deployments">demo</p>
-demo url 
+
   https://bethel14-women-s-wide-project.glitch.me/
   
